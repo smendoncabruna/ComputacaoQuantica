@@ -5,36 +5,28 @@ QC - Portugues
 
 Informações sobre temas de computação quântica em português.
 
-<details><summary>Básicos</summary>
-    - Minha apresentação sobre a área: https://www.youtube.com/watch?v=6xtKDnnp7VY
-    - Mini-explicação sobre qubits: 
-</details>
+## Básicos
+- Minha apresentação sobre a área: https://www.youtube.com/watch?v=6xtKDnnp7VY
+- Mini-explicação sobre qubits: 
 
-<details><summary>Algoritmos</summary>
-    - Algoritmo de Grover
-    - Algoritmo de Shor
-    - No repositório: Deutsch-Jozsa
-</details>
+## Algoritmos
+- Algoritmo de Grover
+- Algoritmo de Shor
+- No repositório: Deutsch-Jozsa
 
-<details><summary>Tipos de Computadores</summary>
-    - Qubits Supercondutores
-    - Qubits topológicos
-    - Qubits de vacância de nitrogênio
-    - Qubits ópticos
+## Tipos de Computadores
+- Qubits Supercondutores
+- Qubits topológicos
+- Qubits de vacância de nitrogênio
+- Qubits ópticos
+
+
+## Linguagens de Programação
+- Qiskit (Python)
+- Pennylane (Python)
     
-</details>
+## Aplicações
 
-<details><summary>Linguagens de Programação</summary>
-    - Qiskit (Python)
-    - Pennylane (Python)
-    
-</details>
+## Onde Estudar
 
-<details><summary>Aplicações</summary>
-</details>
-
-<details><summary>Onde Estudar</summary>
-</details>
-
-<details><summary>Bobeiras :) </summary>
-</details>
+## Bobeiras :) 
