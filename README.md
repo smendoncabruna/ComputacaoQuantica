@@ -16,6 +16,7 @@ Informações sobre temas de computação quântica em português.
 -  Complexidade computacional: https://www.instagram.com/p/CX12ieBveS0/ e https://www.instagram.com/p/CWgUaHplxzH/
 
 ## Tipos de Computadores
+https://www2.ifsc.usp.br/portal-ifsc/tendo-como-base-os-qubits-o-computador-quantico/
 - Critérios de DiVicenzo https://www.instagram.com/p/CXBkRrVAsyE/
 - Era NISQ https://www.instagram.com/p/CYwk4j2l9Dj/
 - Qubits Supercondutores
@@ -33,7 +34,7 @@ Informações sobre temas de computação quântica em português.
 - Ocean - DWave (Python)
 - Forest - Rigetti (Python)
 - Cirq - Google (Python)
-- Q# - Microsoft (baseado em F#)
+- Q# - Microsoft (baseado em F#): https://revistas.setrem.com.br/index.php/reabtic/article/view/362/180
 
 ## Criptografia Quântica
 - O que é criptografia? https://www.instagram.com/p/CYPIyCrFAo7/
