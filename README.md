@@ -51,4 +51,5 @@ https://www2.ifsc.usp.br/portal-ifsc/tendo-como-base-os-qubits-o-computador-quan
 - https://samuraigab.medium.com/
 - O programador quântico: https://www.youtube.com/channel/UCk8V4xLi0TKGSFRyN78JQXA
 - Conteúdo sobre Q#: https://www.youtube.com/channel/UC84uOssxEC7zMq_lWeOOL7w
+- Lista de introdução a computação quântica do LNCC: https://www.youtube.com/playlist?list=PL9fRyh75_RxjocL97Vw4Y1oiwtrkFxgIi
 ## Bobeiras :) 
