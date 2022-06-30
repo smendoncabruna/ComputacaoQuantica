@@ -49,6 +49,10 @@ https://www2.ifsc.usp.br/portal-ifsc/tendo-como-base-os-qubits-o-computador-quan
 - Clima
 - Problemas clássicos e quânticos de otimização
 
+## Erros
+- Correção de erros: notebook no repositório
+- Tolerância a erros
+
 ## Onde Estudar (em Português)
 - https://medium.com/cq-em-portugu%C3%AAs
 - https://brazilquantum.medium.com/
