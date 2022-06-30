@@ -37,7 +37,7 @@ https://www2.ifsc.usp.br/portal-ifsc/tendo-como-base-os-qubits-o-computador-quan
 - Amazon Braket: https://aws.amazon.com/pt/braket/
 - Forest - Rigetti (Python)
 - Cirq - Google (Python)
-- Q# - Microsoft (baseado em F#): https://revistas.setrem.com.br/index.php/reabtic/article/view/362/180
+- Q# - Microsoft (baseado em F#): https://www.youtube.com/channel/UC84uOssxEC7zMq_lWeOOL7w , https://revistas.setrem.com.br/index.php/reabtic/article/view/362/180
 
 ## Criptografia Quântica
 - O que é criptografia? https://www.instagram.com/p/CYPIyCrFAo7/
