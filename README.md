@@ -9,6 +9,7 @@ Informações sobre temas de computação quântica em português.
 - Apresentação sobre a área: https://www.youtube.com/watch?v=6xtKDnnp7VY
 
 ## Algoritmos
+- Transformada de Fourier Quântica (QFT)
 - Algoritmo de Grover
 - Algoritmo de Shor
 - Algoritmo de Simon
