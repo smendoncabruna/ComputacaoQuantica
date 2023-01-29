@@ -54,3 +54,4 @@
 - Livro: A Revolução dos Q-bits, por Ivan S. Oliveira e Cássio Leite Vieira 
 - Winter School on QISKIT: https://github.com/smendoncabruna/Winter-School---Quantum-Computing
 - DiVicenzo criteria: https://www2.ifsc.usp.br/portal-ifsc/tendo-como-base-os-qubits-o-computador-quantico/
+- Podcast: Qubits & Quasares: https://anchor.fm/iif-ufrn
